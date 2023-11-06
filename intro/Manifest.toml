@@ -2,7 +2,7 @@
 
 julia_version = "1.9.3"
 manifest_format = "2.0"
-project_hash = "805d0e8c32b16a9866a0f4e74b75d23de8178833"
+project_hash = "5f2b1f3f218e47c8c2d6d03dd46fe51dd9036318"
 
 [[deps.AbstractFFTs]]
 deps = ["LinearAlgebra"]
@@ -1306,6 +1306,7 @@ version = "1.4.2"
 
 [[deps.Statistics]]
 deps = ["LinearAlgebra", "SparseArrays"]
+path = "dev/Statistics"
 uuid = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
 version = "1.9.0"
 
